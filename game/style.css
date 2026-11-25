@@ -1,0 +1,4 @@
+html, body { margin: 0; padding: 0; background: #2b1d12; overflow: hidden; }
+#wrap { width: 1280px; margin: 0 auto; }
+#game { display: block; background: #f6e3c0; }
+#help { color: #f6e3c0; font: 14px/1.4 system-ui, sans-serif; text-align: center; margin: 8px 0; }
